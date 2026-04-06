@@ -141,10 +141,10 @@ This tool is intended for **educational purposes** and **authorised network test
 
 ## 👤 Author
 
-**Alex Johnson**
+**Stephen Mungai Muchiri**
 - TryHackMe: Jr Penetration Tester path graduate
 - Cybersecurity Certificate — Afrihackon Academy
-- GitHub: [@alexjohnson](https://github.com/alexjohnson)
+- GitHub: https://github.com/stev-gif
 
 ---
 
